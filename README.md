@@ -127,8 +127,8 @@
 
 ```
 🔭  Working On  →  DeepFake Detection AI Project
-📚  Learning    →  Deep Learning, CNN Architectures, Cybersecurity Fundamentals
-🛡️  Exploring   →  Web App Security, Digital Forensics, Threat Analysis
+📚  Learning    → AI $ ML
+🛡️  Exploring   →  Web App Security
 💼  Open To     →  Internships | Entry-Level Cybersecurity / Dev Roles
 🤝  Available   →  Collaborations on Security & AI Projects
 ```
@@ -137,14 +137,6 @@
 
 ---
 
-## 🏅 Certifications & Courses *(Add yours here!)*
-
-> 💡 *Add any completed courses from Coursera, NPTEL, TryHackMe, Cisco NetAcad, etc.*
-
-```
-📜  [Certification Name] — [Platform] — [Year]
-📜  [Certification Name] — [Platform] — [Year]
-```
 
 ---
 
@@ -153,17 +145,11 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nandini--khara-181717?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/nandini-khara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nandini-khara)
+[![Gmail](https://img.shields.io/badge/Email-Hire%20Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-Nandinikhara1@gmail.com)
 
 </div>
 
-<div align="center">
-
-> 💼 *Fresher actively seeking opportunities in Cybersecurity & Full Stack Development.*
-> *Feel free to reach out — let's build something secure together!* 🔐
-
-</div>
 
 ---
 
