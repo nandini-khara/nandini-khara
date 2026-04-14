@@ -146,7 +146,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nandini--khara-181717?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/nandini-khara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nandini-khara)
-[![Gmail](https://img.shields.io/badge/Email-Hire%20Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-Nandinikhara1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nandinikhara1@gmail.com)
 
 </div>
 
