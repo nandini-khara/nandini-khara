@@ -1,163 +1,297 @@
 <div align="center">
 
-<img src="https://png.pngtree.com/png-clipart/20240302/original/pngtree-cute-cartoon-girl-working-on-laptop-png-image_14476165.png" width="30%"/>
+# Hi 👋 I'm Nandini Khara
+
+### Software Developer | Full Stack Developer | AI/ML Enthusiast
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=220&section=header&text=Nandini%20Khara&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<p>
+Computer Science Graduate from Calcutta University <br>
+Summer Research Intern @ IIEST Shibpur <br>
+Passionate about Software Development, AI/ML and Backend Engineering
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=nandini-khara&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
+# 👩‍💻 About Me
 
-## 👾 whoami
+```yaml
+Name: Nandini Khara
 
-```bash
+Education:
+B.Sc. (Hons.) Computer Science
+Calcutta University
 
+Current Role:
+Summer Research Intern
+Department of Information Technology
+IIEST Shibpur
 
-  Name       : Nandini Khara
-  Handle     : @nandini-khara
-  Focus      : Cybersecurity | Full Stack Dev | AI/ML
-  Currently  : Building a DeepFake Detection System
-  Projects   : Connectify — Social Networking Web App
-  Interests  : Digital Forensics, Threat Detection, Secure Web Apps
-  Open To    : Internships | Entry-Level Roles | Collaborations
-  
+Research Project:
+Smart Brain MRI Analysis System for Early Disease Detection
+using MONAI, CNN and Deep Learning
 
+Interested In:
+• Software Development
+• Full Stack Development
+• Artificial Intelligence
+• Medical Image Analysis
+
+Currently Learning:
+• Java
+• Data Structures & Algorithms
+• Backend Development
+
+Open To:
+• Software Developer Roles
+• Full Stack Developer Roles
+• AI/ML Engineer Roles
+• Research Opportunities
 ```
 
 ---
 
-## 🔐 Focus
+# 💼 Internship Experience
 
-<div align="center">
+## 🎓 Summer Research Intern — IIEST Shibpur
 
-| 🛡️ Domain | 🔧 Skill / Interest |
-|---|---|
-| AI-Powered Threat Detection | DeepFake Detection using Deep Learning |
-| Web Application Security | Secure PHP/SQL backend development |
+**Department of Information Technology**
 
-</div>
+**Project**
 
----
+🧠 Smart Brain MRI Analysis System for Early Disease Detection and Personalized Clinical Reporting Using Deep Learning
 
-## 🚀 Featured Projects
+### Technologies
 
-<table>
-<tr>
-<td width="50%">
+- Python
+- MONAI
+- CNN
+- Grad-CAM
+- Medical Image Segmentation
+- Google Colab
 
-### 🕵️ DeepFake Detection *(In Progress)*
-> *AI system to detect manipulated media & protect digital truth*
+### Worked On
 
-- 🧠 Deep Learning / CNN-based detection model
-- 🖼️ Analyzes images & video frames for manipulation
-- 🔐 Aimed at combating AI-generated misinformation
-- 📊 Model training, evaluation & accuracy pipeline
+✅ Brain Tumor Segmentation (BraTS)
 
-**Stack:** `Python` `Deep Learning` `AI/ML` `Computer Vision`
+✅ Stroke Lesion Detection (ISLES)
 
-[![Status](https://img.shields.io/badge/Status-In%20Progress-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nandini-khara)
+✅ Alzheimer's Disease Classification
 
-</td>
-<td width="50%">
+✅ MRI Visualization
 
-### 🔗 Connectify
-> *A full-featured social networking web application*
-
-- 👥 Secure user authentication & profile management
-- 💬 Social interaction with real-time features
-- 🗄️ SQL-powered backend — injection-aware queries
-- 🎨 Fully responsive UI across devices
-
-**Stack:** `HTML` `CSS` `JavaScript` `PHP` `SQL`
-
-[![Repo](add connectify repo link )
-
-</td>
-</tr>
-</table>
+✅ Clinical Report Generation
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🚀 Featured Projects
 
-<div align="center">
+## 🧠 Smart Brain MRI Analysis System
 
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> AI-powered Brain MRI Analysis using Deep Learning
 
-### 🤖 AI / Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Brain Tumor Segmentation
+- Stroke Detection
+- Alzheimer's Classification
+- Grad-CAM Explainability
+- MONAI Framework
+
+**Tech Stack**
+
+`Python`
+`MONAI`
+`CNN`
+`Medical Imaging`
+`Deep Learning`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_BRAIN_MRI_REPO_LINK)
+
+---
+
+## 🌐 Connectify
+
+> Full Stack Social Networking Platform
+
+### Features
+
+- User Authentication
+- Email OTP Verification
+- Stories
+- Real-time Chat
+- Profile Management
+- Posts
+- Likes
+- Comments
+- Admin Panel
+
+**Tech Stack**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`PHP`
+
+`MySQL`
+
+`PHPMailer`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_CONNECTIFY_REPO_LINK)
+
+---
+
+## ❤️ Rural Health Navigator
+
+> AI-assisted healthcare support platform
+
+### Features
+
+- Symptom Collection
+- Disease Categorization
+- Patient Information
+- AI Discussion Module
+
+**Tech Stack**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`PHP`
+
+`Python`
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_RURAL_HEALTH_REPO_LINK)
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-Concepts-00ff88?style=for-the-badge&logo=databricks&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧰 Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Frontend
 
-<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandini-khara&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-khara&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nandini-khara&theme=dark&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
-
-</div>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## 🎯 Currently
+## Backend & Database
 
-<div align="center">
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
-```
-🔭  Working On  →  DeepFake Detection AI Project
-📚  Learning    → AI $ ML
-🛡️  Exploring   →  Web App Security
-💼  Open To     →  Internships | Entry-Level Cybersecurity / Dev Roles
-🤝  Available   →  Collaborations on Security & AI Projects
-```
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-</div>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
 
+## AI / ML
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
+![MONAI](https://img.shields.io/badge/MONAI-FF6F00?style=for-the-badge)
+
+![CNN](https://img.shields.io/badge/CNN-DeepLearning-blue?style=for-the-badge)
+
+![GradCAM](https://img.shields.io/badge/GradCAM-ExplainableAI-success?style=for-the-badge)
 
 ---
 
-## 📬 Let's Connect
+## Tools
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-[![GitHub](https://img.shields.io/badge/GitHub-nandini--khara-181717?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/nandini-khara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nandini-khara)
-[![Gmail](https://img.shields.io/badge/Email-Nandinikhara1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nandinikhara1@gmail.com)
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+
+---
+
+# 📜 Certifications
+
+🏅 IBM SkillsBuild — AI Fundamentals: Foundations for Understanding AI
+
+🏅 Grade A+ — Computational Biology Training (DBT Star College Scheme)
+
+🏅 Summer Research Internship — IIEST Shibpur
+
+(Optional)
+
+[View IBM Badge](YOUR_IBM_BADGE_LINK)
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandini-khara&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini-khara&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nandini-khara&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- Backend Development
+- Software Engineering
+- Medical AI
+
+---
+
+# 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-nandini--khara-black?style=for-the-badge&logo=github)](https://github.com/nandini-khara)
+
+[![Email](https://img.shields.io/badge/Email-nandinikhara1@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nandinikhara1@gmail.com)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+### ⭐ Thanks for visiting my profile!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nandini-khara.nandini-khara&color=00ff88)
+*"Code. Learn. Build. Improve. Repeat."*
 
-*Drop a ⭐ if you like what you see. Open to opportunities — let's connect!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=120&section=footer"/>
 
 </div>
