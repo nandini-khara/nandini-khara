@@ -147,32 +147,7 @@ Open To:
 
 ---
 
-## ❤️ Rural Health Navigator
 
-> AI-assisted healthcare support platform
-
-### Features
-
-- Symptom Collection
-- Disease Categorization
-- Patient Information
-- AI Discussion Module
-
-**Tech Stack**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-`PHP`
-
-`Python`
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_RURAL_HEALTH_REPO_LINK)
-
----
 
 # 🛠 Tech Stack
 
