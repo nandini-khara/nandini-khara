@@ -219,7 +219,7 @@ Open To:
 
 (Optional)
 
-[View IBM Badge](YOUR_IBM_BADGE_LINK)
+[View IBM Badge](https://www.credly.com/badges/96295fde-88a1-42e6-b368-c47e1ae9103e/public_url)
 
 ---
 
